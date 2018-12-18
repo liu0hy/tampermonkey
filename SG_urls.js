@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         SG urls
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  get urls of created giveaways
 // @author       liu0hy
 // @match        https://www.steamgifts.com/giveaways/created
+// @updateURL    https://raw.githubusercontent.com/liu0hy/tampermonkey/master/SG_urls.js
 // @grant        none
 // ==/UserScript==
 
