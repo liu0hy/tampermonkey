@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Format keys
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  Format keys to be redeemed by ASF
 // @author       liu0hy
 // @match        https://liu0hy.cn:2096/page/commands
-// @updateURL    https://github.com/liu0hy/tampermonkey/blob/master/format_keys.js
+// @updateURL    https://raw.githubusercontent.com/liu0hy/tampermonkey/master/format_keys.js
 // @grant        none
 // ==/UserScript==
 
