@@ -4,7 +4,7 @@
 // @version      0.3
 // @description  Format keys to be redeemed by ASF
 // @author       liu0hy
-// @match        https://liu0hy.cn:2096/page/commands
+// @match        https://liu0hy.cn:2096/page
 // @updateURL    https://raw.githubusercontent.com/liu0hy/tampermonkey/master/format_keys.js
 // @grant        none
 // ==/UserScript==
