@@ -23,7 +23,7 @@ return;\n\
 }\n\
 str = \"redeem master \" + n.join(\",\");\n\
 console.info(str);\n\
-copy(str);
+copy(str);\n\
 }");
     e.appendChild(t);
     document.body.appendChild(e);
